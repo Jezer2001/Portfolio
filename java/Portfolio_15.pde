@@ -29,7 +29,7 @@ public static void main(String []args)
         //essentially a basic bubble sort algorithm.
         temp = seminarNames[i];
         seminarNames[i] = seminarNames[j];
-        seminarNames[j] = temp;
+        seminarNames[j] = temp; 
       }
     }
   }
