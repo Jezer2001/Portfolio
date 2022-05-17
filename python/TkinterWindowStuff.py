@@ -1,5 +1,5 @@
 #Tkinter GUI Window
-print("Jonelle is a rawt");
+print("egg");
 #Importing the tkinter module into the program.
 #We have also imported the label and button objects, these allow
 #the window to have labels and button, we can use the * symbol to import everything
