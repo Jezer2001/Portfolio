@@ -31,7 +31,7 @@ public static void main(String []args)
     {
       rollDistance = (dice1 + dice2) - 2;
       JOptionPane.showMessageDialog(null, "The distance from Snake Eyes is: " 
-        + dice1  + "+" + dice2 + "-2 = " + rollDistance);
+        + dice1  + "+" + dice2 + "-2 = " + rollDistance); 
     }
   }
 }
